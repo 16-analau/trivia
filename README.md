@@ -1,1 +1,1 @@
-# trivia
+# trivi
